@@ -30,5 +30,5 @@ Sneha Ojha
 Computer Science
 
 Favorite Image
-![Favorite](https://www.instagram.com/p/BVUs9z9AISh/)
+![Favorite](Capture.PNG)
 This picture was taken by me in Gosainkuda lake. It was 4830m above sea level. One of my favorite treks.
