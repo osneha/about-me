@@ -5,5 +5,10 @@ This is my developer website
 * [Hosted page](https://osneha.github.io/about-me/)
 
 ## About
-This Repository will be used for 
+My name is Sneha Ojha. This Repository is for one of my class, Developing Web Application at Northwest Missouri State University.
+[NWMSU](https://www.nwmissouri.edu/)
+
+## Recommended Tools
+
+## Recommended Resources
 
