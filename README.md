@@ -9,6 +9,12 @@ My name is Sneha Ojha. This Repository is for one of my class, Developing Web Ap
 [NWMSU](https://www.nwmissouri.edu/)
 
 ## Recommended Tools
+Few tools and languages that are required to publish a repo with GitHub pages are:
+
+* [HTML](https://html.com/)
+* [Java](https://www.java.com/en/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [GitHub Account](https://github.com/)
 
 ## Recommended Resources
 
