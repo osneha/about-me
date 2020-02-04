@@ -18,3 +18,8 @@ Few tools and languages that are required to publish a repo with GitHub pages ar
 
 ## Recommended Resources
 
+These are some very useful resources I have come across which will be beneficial for this class.
+
+* [StackOverFlow] (https://stackoverflow.com/)
+* [w3schools](https://www.w3schools.com/)
+* [Wix](https://www.wix.com/)
