@@ -1,7 +1,7 @@
 QUnit.module('MAIN MODULE', {})  // group all these tests together
 
 QUnit.test("prettydate basics", function( assert ) {``
-    assert.equal(addValues('4','5','6'), 15);
+    assert.equal(addValues('4','5','6','1'), 16);
   });
 
 QUnit.config.autostart = false  // sync = false; start after loading html
